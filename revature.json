@@ -1,0 +1,15 @@
+{
+  "type": "java",
+  "testFiles": [
+    {
+      "path": "src/test/java/InsertARecordTest.java",
+      "testCases": [
+        {
+          "methodName": "addSongTest",
+          "label": "Validates successful record insertion",
+          "description": "Checks that the problem1 method returns true when an insert operation affects more than zero rows, indicating a successful database insertion."
+        }
+      ]
+    }
+  ]
+}
